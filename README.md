@@ -5,7 +5,7 @@ This project includes a full relational database, tables, sample data, stored pr
 
 ---
 
-## 🚀 Features
+#🚀 Features
 
 - Fully normalized database schema  
 - Primary & foreign keys for relational integrity  
@@ -17,7 +17,7 @@ This project includes a full relational database, tables, sample data, stored pr
 
 ---
 
-## Project Structure
+# Project Structure
 
 Ecommerce-SQL-Project/
 ├── database.sql
@@ -33,7 +33,7 @@ Ecommerce-SQL-Project/
 
 ---
 
-## 🗄 Database Overview
+## Database Overview
 
 ### **Tables**
 - **customers** (customer info)  
