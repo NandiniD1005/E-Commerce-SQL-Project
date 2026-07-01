@@ -85,8 +85,8 @@ Ecommerce-SQL-Project/
 
 ##  Author
 
-**Nandini Dhondge**  
-Fourth Year Computer Engineering Student  
+**Nandini Dhondge**
+ Computer Engineering Student  
 DBMS project
 
 
